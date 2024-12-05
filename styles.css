@@ -95,3 +95,14 @@ margin-left: 20px;
 .footer-three {
   flex: 2;
 }
+
+.footer-one,
+.footer-three {
+  background-color: #5995DA;
+  flex: initial;
+  width: 300px;
+}
+
+.signup {
+  margin-left: auto;
+}
